@@ -1,3 +1,3 @@
 test
-git is a verion control system.
+git is a distribute verion control system.
 git is free software.
