@@ -1,4 +1,4 @@
 test
-git is a distribute verion control system.
-git is free software distributed under the GPL .
-git tracks changes of files .
+<<<<<<< HEAD
+=======
+>>>>>>> 75d89be37dda64077d9dcd9098b8f3994b6c3cbc
